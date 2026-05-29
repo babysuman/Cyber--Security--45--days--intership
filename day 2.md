@@ -1,3 +1,5 @@
+<img width="867" height="379" alt="Screenshot 2026-05-29 120124" src="https://github.com/user-attachments/assets/53d0596a-582a-486a-b54c-9df31e6fd49e" />
+<img width="773" height="442" alt="Screenshot 2026-05-29 122102" src="https://github.com/user-attachments/assets/381eff3b-98e9-48f1-9e4e-4ab2bbc5c228" />
 # Day-2
 
 
@@ -105,24 +107,9 @@
 
 
 
-
-
-
 ##### 4\. Lab experiment password strength checker:
 
-##### 
 
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### &#x20;
 
 
 
