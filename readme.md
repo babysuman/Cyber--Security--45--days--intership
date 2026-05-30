@@ -2,7 +2,7 @@
 
 ## \* Cyber Attack
 
-1. #### &#x20; **Attack Name- WannaCry** :
+1. #### &#x20; 🔎**Attack Name- WannaCry** :
 
 ##### &#x20;                  It mainly target only Microsoft Window based operating system. The attack
 
@@ -10,15 +10,15 @@
 
 
 
-##### 2\.   **Year of attack** : 12 May 2017.
+##### 2\. 📅  **Year of attack** : 12 May 2017.
 
 
 
-##### 3\.   Attacker group : Shadow Brokers(leaked the vulnerability), Lazarus Group(main suspects).
+##### 3\.  👥 Attacker group : Shadow Brokers(leaked the vulnerability), Lazarus Group(main suspects).
 
 
 
-##### 4\.   Type of attack : It was mainly a Ransomware attack: encrypted victims files and demand     
+##### 4\. 🧩 Type of attack : It was mainly a Ransomware attack: encrypted victims files and demand     
 
 ##### &#x20;                  for money to restore access. It was also a worm based attack: it spread  
 
@@ -26,7 +26,7 @@
 
 ##### 
 
-##### 5\.    Main causes of the attack: " EternalBLue" - this the windows vulnerability that was discovered by
+##### 5\. ⚡   Main causes of the attack: " EternalBLue" - this the windows vulnerability that was discovered by
 
 ##### &#x20;                                 NSA(National Security Agency) .In this the SMB(server message block)
 
@@ -42,7 +42,7 @@
 
 
 
-##### 6\.    How its work : 1. Scanning system
+##### 6\.  🛠  How its work : 1. Scanning system
 
 ##### &#x20;                    2. exploiting EternalBlue
 
@@ -56,7 +56,7 @@
 
 
 
-##### &#x20;7.  Impacts: > Financial impact : Billions of dollars in losses
+##### &#x20;7. 🌍 Impacts: > Financial impact : Billions of dollars in losses
 
 ##### &#x20;             > Data loss and Encryption: loss of documents, images medical record etc.
 
@@ -68,7 +68,7 @@
 
 
 
-##### &#x20;8.  Preventions:1. Install security update.
+##### &#x20;8. 🔒 Preventions:1. Install security update.
 
 ##### &#x20;                2. Disable SMBv1
 
