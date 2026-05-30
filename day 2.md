@@ -3,7 +3,7 @@
 
 
 
-1. ### CIA triad:
+1. ###📜 CIA triad:
 
 ##### &#x20;    > C - Confidentiality
 
@@ -13,19 +13,19 @@
 
 ##### 
 
-* #### Confidentiality:
+* ####🔒 Confidentiality:
 
 ##### &#x20;                   > Protecting sensitive information from unauthorized access.
 
 
 
-* #### Integrity:
+* ####🧾 Integrity:
 
 ##### &#x20;             >  Ensuring data is accurate, consistent, and trustworthy.
 
 ##### 
 
-* #### Availability:
+* ####⚙️ Availability:
 
 ##### &#x20;                 > Guaranteeing authorized users can access data when needed.
 
@@ -55,7 +55,7 @@
 
 &#x20;
 
-#### &#x20;  A) Authentication:
+#### &#x20;  A)🔑 Authentication:
 
 ##### &#x20;
 
@@ -73,7 +73,7 @@
 
 
 
-#### &#x20;  B) Authorization:
+#### &#x20;  B)🛂 Authorization:
 
 &#x20;
 
@@ -89,12 +89,12 @@
 
 ##### 
 
-##### 3\. Lab experiment login with password manager:
+##### 3\.🎨 Lab experiment login with password manager:
 
 <img width="773" height="442" alt="Screenshot 2026-05-29 122102" src="https://github.com/user-attachments/assets/381eff3b-98e9-48f1-9e4e-4ab2bbc5c228" />
 
 
-##### 4\. Lab experiment password strength checker:
+##### 4\.🎨 Lab experiment password strength checker:
 
 <img width="867" height="379" alt="Screenshot 2026-05-29 120124" src="https://github.com/user-attachments/assets/53d0596a-582a-486a-b54c-9df31e6fd49e" />
 
