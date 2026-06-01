@@ -1,4 +1,4 @@
-## \#Docker:
+## \#🐳Docker:
 
 ##### &#x20;           Docker is a set of products that uses operating system-level virtualization to    
 
@@ -16,7 +16,7 @@
 
 ###### 
 
-### \# History:
+### \# 📜History:
 
 ###### &#x20;    > Solomon Hykes started the Docker project in France as an internal project within dotCloud, a  
 
@@ -50,7 +50,7 @@
 
 
 
-#### \# Component:
+#### \#🛠️ Component:
 
 ###### &#x20;                 The Docker software as a service offering consists of three components:
 
