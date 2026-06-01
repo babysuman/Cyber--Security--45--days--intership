@@ -1,10 +1,10 @@
-## \# Ransomware:
+## \#💻 Ransomware:
 
 ###### &#x20;It is a type of malicious software that encrypts or locks access to files, systems, or devices until a ransom is paid, usually in cryptocurrency. It has evolved into one of the most dangerous cyber threats globally, targeting individuals, businesses, and even governments. Paying the ransom is strongly discouraged, as it does not guarantee recovery and fuels further attacks.
 
 
 
-### History \& Evolution:
+###📖 History \& Evolution:
 
 ##### &#x20;> 1989:
 
@@ -30,7 +30,7 @@
 
 ##### 
 
-#### Types of ransomware:
+####🧩 Types of ransomware:
 
 ###### &#x20;1.Encrypting (Crypto-ransomware): Encrypts files and demands payment for decryption. Ex-CryptoLocker.
 
@@ -44,7 +44,7 @@
 
 
 
-#### How Attacks Work:
+####⚙️ How Attacks Work:
 
 ##### > Delivery Methods:
 
@@ -68,7 +68,7 @@
 
 
 
-#### Prevention \& Protection:
+####🛡️ Prevention \& Protection:
 
 ##### > Backups:
 
@@ -102,7 +102,7 @@
 
 
 
-### \# CVSS(Common Vulnerability Scoring System):
+### \#📊 CVSS(Common Vulnerability Scoring System):
 
 #### &#x20;Formula:
 
