@@ -1,4 +1,4 @@
-# \# Digital forensic tool:
+# \#🔍 Digital forensic tool:
 
 1. ### FTK Imager tool:
 
@@ -8,7 +8,7 @@
 
 
 
-### Why to use ?
+###⚙️ Why to use ?
 
 ###### > It has a simple user interface and advanced searching capabilities.
 
@@ -24,7 +24,7 @@
 
 
 
-#### \#How it works:
+#### \📥#How it works:
 
 ###### Step 1: Download and install the FTK imager on your machine.
 
@@ -66,7 +66,7 @@
 
 ###### &#x20;                              processes, active network connections, clipboard contents, and passwords.
 
-#### \# Why to use ?
+#### \#⚙️ Why to use ?
 
 ###### &#x20;  > Malware Detection: Identifies hidden processes, rootkits, and malicious code injected into memory.
 
@@ -78,7 +78,7 @@
 
 #### 
 
-### \*\* DNS(Domain Name Server):
+### \*\*img width="128" height="128" alt="2333476" src="https://github.com/user-attachments/assets/967e2a10-f3ab-4f0f-a0c9-3983a9ce0164" /> DNS(Domain Name Server):
 
 ###### &#x20;    > The Domain Name System (DNS) is the "phonebook of the Internet." It automatically translates human-readable domain names (like     
 
@@ -86,7 +86,7 @@
 
 ###### 
 
-#### \#how DNS work:
+#### \#🌐how DNS work:
 
 ###### &#x20;> The Query: Your device asks a DNS resolver (usually provided by your Internet Service Provider) for the IP address.
 
