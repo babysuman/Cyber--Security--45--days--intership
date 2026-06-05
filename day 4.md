@@ -78,7 +78,7 @@
 
 #### 
 
-### \*\*img width="128" height="128" alt="2333476" src="https://github.com/user-attachments/assets/967e2a10-f3ab-4f0f-a0c9-3983a9ce0164" /> DNS(Domain Name Server):
+### \*🌐 DNS(Domain Name Server):
 
 ###### &#x20;    > The Domain Name System (DNS) is the "phonebook of the Internet." It automatically translates human-readable domain names (like     
 
