@@ -1,8 +1,8 @@
-# \# Ports \& Services in networking:
+# \#🔍 Ports \& Services in networking:
 
 
 
-1. ### Port:
+1. ###🔌 Port:
 
 ###### &#x20;          > A port is a logical identifier used to distinguish different applications or services 
 
@@ -16,7 +16,7 @@
 
 
 
-* #### How Ports Work:
+* #### ⚙️How Ports Work:
 
 ###### &#x20;                   > When a device communicates over a network, data packets are sent to its IP address. Each packet also includes a port    
 
@@ -44,13 +44,13 @@
 
 
 
-* #### Types of ports:
+* ####📂 Types of ports:
 
 ###### &#x20;                    > Ports are mainly classified into the following types:
 
 ###### 
 
-##### &#x20; 1. Physical Ports:
+##### &#x20; 1. 🔌Physical Ports:
 
 ###### &#x20;                     > These are actual hardware connectors on devices.
 
@@ -62,7 +62,7 @@
 
 
 
-##### &#x20; 2. Logical/Network Ports:
+##### &#x20; 2.🔌 Logical/Network Ports:
 
 ###### &#x20;                        > These are software-based endpoints that let programs communicate over a network.
 
@@ -84,7 +84,7 @@
 
 
 
-##### &#x20; 3. Serial and Parallel Ports:
+##### &#x20; 3.🔌 Serial and Parallel Ports:
 
 ###### &#x20;                                    > Older hardware ports mostly used before USB became standard.
 
@@ -94,7 +94,7 @@
 
 ##### &#x20; 
 
-##### &#x20; 4. Virtual Ports:
+##### &#x20; 4.🔌 Virtual Ports:
 
 ###### &#x20;                      > Software-defined ports used in virtual machines, containers, or applications to communicate internally without physical hardware.
 
@@ -125,7 +125,7 @@
 
 ### 
 
-### 2\. Services:
+### 2\.🛠️ Services:
 
 ###### &#x20;                  > Network services refer to the applications or services that are hosted on a network to provide functionality for users or other applications. 
 
@@ -149,7 +149,7 @@
 
 
 
-* #### Types of services:
+* ####🛡️ Types of services:
 
 ###### &#x20;  There are mainly 6 type of services.
 
